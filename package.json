@@ -1,0 +1,17 @@
+{
+  "name": "product-page-conversion-auditor",
+  "version": "1.0.0",
+  "description": "E-commerce landing page diagnostic engine that audits trust badges, reviews placement, sticky Add-to-Cart widgets, and mobile load speed, scoring store readiness.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/product-page-conversion-auditor.test.js"
+  },
+  "keywords": [
+    "ecom-cro",
+    "product-page-audit",
+    "shopify-optimization",
+    "speed-audit"
+  ],
+  "author": "Gideon Bawa <bawagideon@gmail.com>",
+  "license": "MIT"
+}
